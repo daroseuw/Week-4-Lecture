@@ -9,3 +9,4 @@ ILLENIUM
 MEMBA
 MEDUZA
 Another Cool Band
+Tim added this cool band throgh the GitHub UI
